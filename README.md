@@ -32,3 +32,24 @@ Mi nombre es **Alejandro Sanmartin**. He nacido y vivido en Zaragoza, España, t
     </li>
   </ol>
 </details>
+
+## Estudios
+
+### Estudios Básicos
+
+<table align="center" bgcolor="grey">
+    <thead>
+        <tr>
+            <th>Eduacion Intantil</th>
+            <th>Eduacion Primaria</th>
+            <th>Eduacion Secundaria</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td align="center"> <img src="https://zaragoza.salesianos.edu/wp-content/uploads/2017/06/logoSalesianosWeb.png" style="width: 2rem;">  &nbsp; Salesianos Zaragoza </td>
+            <td align="center" valign="top"> <img src="https://zaragoza.salesianos.edu/wp-content/uploads/2017/06/logoSalesianosWeb.png" style="width: 2rem;">  &nbsp; Salesianos Zaragoza </td>
+            <td align="center" valign="middle"> <img src="https://zaragoza.salesianos.edu/wp-content/uploads/2017/06/logoSalesianosWeb.png" style="width: 2rem;">  &nbsp; Salesianos Zaragoza </td>
+        </tr>
+    </tbody>
+</table>
