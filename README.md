@@ -2,7 +2,7 @@
 
 <img src="https://media0.giphy.com/media/H8KLeQPbtperdodeH3/200w.webp?cid=ecf05e47gg3c2zjofc7hbacqczk4arts1azctx2s3cfjugem&rid=200w.webp&ct=g" style="width: 100%;">
 
-Mi nombre es **Alejandro Sanmartin**. He nacido y vivido en Zaragoza, España, toda mi vida. Soy graduado en Desarrollo de Aplicaciones Multiplataforma (FPGS) y en Economía (Universidad). Actualmente estoy terminando un Grado Superior en Desarrollo de Aplicaciones Web en el CPIFP Los Enlaces.
+Mi nombre es **Alejandro Sanmartin**. He nacido y vivido en Zaragoza, España, toda mi vida. Soy graduado en Desarrollo de Aplicaciones Multiplataforma (FPGS) y en Economía (Universidad). Actualmente, estoy terminando un Grado Superior en Desarrollo de Aplicaciones Web en el CPIFP Los Enlaces. Puede ver más sobre mi en mi [Portfolio](https://isanmartin8a.github.io) 😄
 
 <!--<img src="https://i.pinimg.com/originals/e4/26/70/e426702edf874b181aced1e2fa5c6cde.gif" style="margin-left: 50%; width: 15rem; object-fit: cover;">-->
 
