@@ -1,10 +1,10 @@
 ## Howdy! I'm Alex 👋 👩🏾‍💻 
-<hr>
+
 <img src="https://vault.diego.contact/apps/files_sharing/publicpreview/bannergithub?x=1860&y=617&a=true&file=bannerGithub.jpg&scalingup=0" style="width: 100%;">
 
+My name is **Alejandro Sanmartín**. I was born in Zaragoza, Spain. I am a senior technician in cross-platform application development and passionate about Front End development. Currently finishing my web development studies. You can know more about me in my portfolio ->
 
-
-Mi nombre es **Alejandro Sanmartin**. He nacido y vivido en Zaragoza, España, toda mi vida. Soy graduado en Desarrollo de Aplicaciones Multiplataforma (FPGS) y en Economía (Universidad). Actualmente, estoy terminando un Grado Superior en Desarrollo de Aplicaciones Web en el CPIFP Los Enlaces. Puede ver más sobre mi en mi [Portfolio](https://isanmartin8a.github.io) 😄
+[Portfolio](https://isanmartin8a.github.io) 😄
 
 <div align="center">
   <a href="https://instagram.com/sanmartin8a" target="_blank"><img src="https://vault.diego.contact/apps/files_sharing/publicpreview/insta?x=1864&y=618&a=true&file=Instagram-Icon.png&scalingup=0" style="margin-left: 50%; width: 3rem;"></a>
