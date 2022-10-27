@@ -1,6 +1,6 @@
 ## Howdy! I'm Alex 👋 👩🏾‍💻 
 
-<img src="https://vault.diego.contact/apps/files_sharing/publicpreview/bannergithub?x=1860&y=617&a=true&file=bannerGithub.jpg&scalingup=0" style="width: 100%;">
+<img src="https://vault.diego.contact/apps/files_sharing/publicpreview/bannerlinkedin?x=1860&y=617&a=true&file=bannerLinkedin.jpg&scalingup=0" style="width: 100%;">
 
 My name is **Alejandro Sanmartín**. I was born in Zaragoza, Spain. I am a senior technician in cross-platform application development and passionate about Front End development. Currently finishing my web development studies. You can know more about me in my portfolio ->
 
