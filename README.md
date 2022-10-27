@@ -1,4 +1,4 @@
-## Howdy! I'm Alex 👋 👩🏾‍💻 
+## Howdy! I'm Alex 👋 🧑🏽‍
 
 <img src="https://vault.diego.contact/apps/files_sharing/publicpreview/bannerlinkedin?x=1860&y=617&a=true&file=bannerLinkedin.jpg&scalingup=0" style="width: 100%;">
 
