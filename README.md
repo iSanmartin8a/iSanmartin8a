@@ -6,14 +6,12 @@ My name is **Alejandro Sanmartín**. I'm a *multiplatform and web* developer who
 
 ## Find me around the web 🧑🏽:
 
-
-  <img src="https://chrisdermody.com/content/images/2017/12/10_coding_dribbble.gif" width="250" align="left"/>
+  <img src="https://vault.diego.contact/apps/files_sharing/publicpreview/laptop?x=1864&y=618&a=true&file=laptop.png&scalingup=0" width="250" align="left"/>
 <br>
-<br>
-
+  
   - Sharing updates on [LinkedIn](https://es.linkedin.com/in/alejandro-sanmart%C3%ADn-borobia-b71987163).
-  - Showing my face on [Instagram](https://instagram.com/sanmartin8a).
   - Giving a bad opinion on [Twitter](https://twitter.com/sanmartin8a).
+  - Showing my face on [Instagram](https://instagram.com/sanmartin8a).
   - Trying to help and learn in [Stack Overflow](https://stackoverflow.com/users/16855414/alex-sanmart%c3%adn-borobia).
 
   
